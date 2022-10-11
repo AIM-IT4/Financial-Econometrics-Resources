@@ -1,1 +1,4 @@
 # Financial-Econometrics-Resources
+
+
+Coding projects and Books/Notes  I have worked/follwed  on financial econometrics, in R and Python. Predominantly includes utilizing code to recreate the Black Sholes Model, Greek Option calculator, Stochastic Process and Brownian Motion and other data science applications for finance. Python was also used primarily for machine learning applications in finance, using various functions from sklearn, random forests, among others to perform predictive analysis on data such as forecasting bitcoin prices, predicting loan default probability, and building neural networks with TensorFlow. R project involves importing datasets from excel as well as using R functions to relabel and tweak datasets that were initially incompatible. R was predominantly used to perform econometric analysis of data as well as basic statistical functions like finding P value and T value.
